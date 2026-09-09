@@ -20,7 +20,7 @@ _Qui tient quels fichiers ? À revoir toutes les 3-4 séances, en échangeant le
 
 - **Thème : Site web (ou site de festival) avec thème sur les films SPIDERMAN (plus spécifiquement les films d'animation sony style ATSV ITSV**
 - **En une phrase: Festival, thème Spiderman**
-- **Blind test envisagé :** audio / vidéo — sur quoi ?
+- **Blind test envisagé :** audio --> Ranking des musiques du film???? / vidéo --> les moments d'animation les plus cools??? — sur quoi ?
 
 ## Lancer le projet
 
@@ -42,4 +42,4 @@ Une ligne par séance. L'historique Git dit *qui* a fait *quoi* ; le journal dit
 
 | Séance | Ce qu'on a fait | Ce qui bloque |
 |--------|-----------------|---------------|
-| 1      |                 |               |
+| 1      | Trouver thème et activité présente sur le site web             |  rien lol             |
