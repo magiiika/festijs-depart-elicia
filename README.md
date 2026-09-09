@@ -18,8 +18,8 @@ _Qui tient quels fichiers ? À revoir toutes les 3-4 séances, en échangeant le
 
 ## Le festival
 
-- **Thème : Site web (ou site de festival) avec thème sur les films SPIDERMAN (plus spécifiquement les films d'animation sony style ATSV ITSV**
-- **En une phrase: Festival, thème Spiderman**
+- **Thème:** Site web (ou site de festival) avec thème sur les films SPIDERMAN (plus spécifiquement les films d'animation sony style ATSV ITSV)
+- **En une phrase:**Festival, thème Spiderman
 - **Blind test envisagé :** audio --> Ranking des musiques du film???? / vidéo --> les moments d'animation les plus cools??? — sur quoi ?
 
 ## Lancer le projet
