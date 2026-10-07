@@ -1,4 +1,4 @@
 const evenements = [
-  { titre: "Bim bam", jour: "vendredi", heureDebut: "18:00", duree: 60 },
-  { titre: "C'est lolololoooo", jour: "samedi", heureDebut: "21:30", duree: 90 },
+  { titre: "Titre de l'événement", jour: "vendredi", heureDebut: "18:00", duree: 60 },
+  { titre: "Titre de l'événement", jour: "samedi", heureDebut: "21:30", duree: 90 },
 ];
