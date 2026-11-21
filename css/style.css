@@ -26,6 +26,28 @@ body {
   background: var(--couleur-fond);
 }
 
+#logo {
+  width: 80px;
+
+}
+
+.site-entete {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+ul {
+
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding: 10px;
+}
+
+
 /* --- 4. Composants ------------------------------------------------------ */
 /* TODO séance 2 : en-tête, hero, cartes */
 

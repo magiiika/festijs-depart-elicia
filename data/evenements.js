@@ -5,15 +5,8 @@
 // =============================================================
 
 export const evenements = [
-  // {
-  //   id: 1,
-  //   titre: "",
-  //   type: "concert",        // "concert" | "atelier"
-  //   jour: "vendredi",       // vendredi | samedi | dimanche
-  //   heureDebut: "18:00",    // format 24 h, toujours sur 5 caractères
-  //   duree: 60,              // en minutes
-  //   scene: "",
-  //   artiste: "",
-  //   description: "",
-  // },
+  { titre: "Titre de l'événement", jour: "vendredi", heureDebut: "18:00", duree: 60 },
+  { titre: "Titre de l'événement", jour: "samedi", heureDebut: "21:30", duree: 90 },
+  { titre: "Titre de l'événement", jour: "samedi", heureDebut: "21:30", duree: 90 },
 ];
+
