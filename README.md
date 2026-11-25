@@ -13,8 +13,8 @@
 
 _Qui tient quels fichiers ? À revoir toutes les 3-4 séances, en échangeant les rôles._
 
-- **[Nom 1] →**C'est moi
-- **[Nom 2] →**Haha encore moi
+- **Elicia1 →**C'est moi
+- **Elicia2 →**Haha encore moi
 
 ## Le festival
 
